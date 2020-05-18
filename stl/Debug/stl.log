@@ -1,0 +1,4 @@
+﻿  stl.cpp
+C:\Users\A1caida\source\repos\stl\stl\stl.cpp(51,13): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\A1caida\source\repos\stl\stl\stl.cpp(86,19): warning C4101: num: неиспользованная локальная переменная
+  stl.vcxproj -> C:\Users\A1caida\source\repos\stl\Debug\stl.exe
